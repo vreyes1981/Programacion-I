@@ -9,7 +9,11 @@ import java.util.Scanner;
 /**
  *
  * @author victor
- */
+ */ 
+/*1. Cálculo con dos variables Escribir un programa que solicite al usuario la base y la altura de un
+rectángulo. Utilice estas dos variables para calcular el área del rectángulo (Base X Altura) y el
+perímetro (suma de todos sus lados). Imprimir ambos resultados en pantalla */
+
 public class Rectangulo {
 
     /**
