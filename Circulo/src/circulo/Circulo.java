@@ -40,8 +40,6 @@ public class Circulo {
          circunferencia= 2*Math.PI*radio;
          System.out.printf("El area del circulo es: %.4f\n ", area);
          System.out.printf("La circunferencia del circulo es: %.4f\n ", circunferencia);
-         
-         
-    }
+     }
     
 }
