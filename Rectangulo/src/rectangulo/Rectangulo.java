@@ -49,6 +49,5 @@ public class Rectangulo {
         
         System.out.println("El area del rectangulo es: " +area);
         
-    }
-    
+    } 
 }
